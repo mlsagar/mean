@@ -1,0 +1,21 @@
+{
+  "name": "mean-game",
+  "version": "1.0.0",
+  "description": "MEAN stack application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "Mongo",
+    "Express",
+    "Angular",
+    "Node"
+  ],
+  "author": "Sagar Maharjan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}

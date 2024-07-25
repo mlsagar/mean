@@ -1,0 +1,1 @@
+console.log("talk is from inside");
