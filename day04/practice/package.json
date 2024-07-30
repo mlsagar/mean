@@ -1,0 +1,17 @@
+{
+  "name": "mean-game-practice",
+  "version": "1.0.0",
+  "description": "Practicing mongodb driver latest",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch app"
+  },
+  "author": "Sagar Maharjan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0"
+  }
+}
